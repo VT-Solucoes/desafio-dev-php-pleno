@@ -62,6 +62,20 @@ Esses são os atributos de qualidade que esperamos que você atenda:
      - Resumo
      - URL da imagem
 
+4. Um script que acesse o site (https://practice.expandtesting.com/login) e faça as seguintes ações:
+   - [ ] Solicite um usuário e senha ao usuário
+   - [ ] Efetue o cadastro no site utilizando os dados informados
+   - [ ] Efetue o login
+   - [ ] Retorne um array com:
+       - Usuário
+       - Senha
+       - Mensagem de sucesso com o nome de usuário da página logada
+
+5. Um script que acesse o site (https://practice.expandtesting.com/upload) e faça as seguintes ações:
+   - [ ] Efetue o upload de um arquivo enviado
+   - [ ] Efetue o login na url (https://practice.expandtesting.com/download-secure) utilizando o usuário e senha **admin**
+   - [ ] Localize e efetue o download do arquivo enviado
+
 ### Observações
 - Utilize PHP para a realização do teste;
 - Você pode utilizar ou não framework, fica a seu critério. Vamos avaliar a sua lógica; 
