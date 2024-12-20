@@ -49,6 +49,7 @@ Esses são os atributos de qualidade que esperamos que você atenda:
    - [ ] Os funcionários podem ter 1 ou mais cartões;
    - [ ] Crie um formulário de busca, que a partir de um documento ou número de cartão mostre as informações cadastradas;
 
+
 2. Um script que acesse o Google e:
    - [ ] Efetue uma busca (por qualquer termo);
    - [ ] Efetue uma busca por **VT Soluções**;
@@ -56,11 +57,13 @@ Esses são os atributos de qualidade que esperamos que você atenda:
      - Telefone
      - Endereço
 
+
 3. Um script que acesse o site da VT Soluções (https://www.vtsolucoes.com.br) e obtenha a última notícia do blog e:
    - [ ] Retorne um array com:
      - Título
      - Resumo
      - URL da imagem
+
 
 4. Um script que acesse o site (https://practice.expandtesting.com/login) e faça as seguintes ações:
    - [ ] Solicite um usuário e senha ao usuário
@@ -70,6 +73,7 @@ Esses são os atributos de qualidade que esperamos que você atenda:
        - Usuário
        - Senha
        - Mensagem de sucesso com o nome de usuário da página logada
+
 
 5. Um script que acesse o site (https://practice.expandtesting.com/upload) e faça as seguintes ações:
    - [ ] Efetue o upload de um arquivo enviado
